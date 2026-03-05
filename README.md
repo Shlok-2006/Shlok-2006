@@ -8,6 +8,3 @@ When curiosity meets caffeine, you’ll probably find me coding, tinkering, or d
 📫 Ping me if you’ve got an idea worth building—or just wanna say hi  
 ⚡ Fun fact: I name my bugs like Pokémon. Some of them evolve. Most just faint.
 
-
-![Shlok-2006's Stats](https://github-readme-stats.vercel.app/api?username=Shlok-2006&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-2006&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
