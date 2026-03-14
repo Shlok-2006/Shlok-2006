@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I am Shlok Agarwal.<br>
 I am a Computer Science student interested in Artificial Intelligence, Computer Vision, Web Development, and Software Development.<br>
 Skilled in Python, C/C++, Java, JavaScript, and SQL for building practical applications.<br>
