@@ -1,4 +1,4 @@
-# I am Shlok Agarwal:
+# I am Shlok Agarwal,
 I am a Computer Science w/s in AI and ML undergraduate at SRM IST (KTR) , with a strong interest in building real-world intelligent systems.<br>Passionate about AI, computer vision, and software development, I focus on practical problem-solving and continuously improving my development and system design skills.
 
 
