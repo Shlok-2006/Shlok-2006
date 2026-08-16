@@ -31,5 +31,4 @@ A B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology, Chenn
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shlok-2006&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,50:5C1018,100:0D0D0D&height=120&section=footer" width="100%" alt="footer" />
