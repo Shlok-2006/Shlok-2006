@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shlok-2006&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="views" />
-<img src="https://img.shields.io/github/followers/Shlok-2006?style=for-the-badge&color=bb9af7&labelColor=1a1b26&label=FOLLOWERS" alt="followers" />
-<img src="https://img.shields.io/badge/BUILDING_SINCE-2024-f7768e?style=for-the-badge&labelColor=1a1b26" alt="years" />
+<img src="https://komarev.com/ghpvc/?username=Shlok-2006&style=for-the-badge&color=B11226&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/Shlok-2006?style=for-the-badge&color=A00018&labelColor=080808&label=FOLLOWERS" alt="followers" />
+<img src="https://img.shields.io/badge/BUILDING_SINCE-2024-800010?style=for-the-badge&labelColor=080808" alt="years" />
 
 </div>
 
