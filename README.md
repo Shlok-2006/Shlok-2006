@@ -8,29 +8,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=tyxben&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="views" />
-<img src="https://img.shields.io/github/followers/tyxben?style=for-the-badge&color=bb9af7&labelColor=1a1b26&label=FOLLOWERS" alt="followers" />
-<img src="https://img.shields.io/badge/BUILDING_SINCE-2016-f7768e?style=for-the-badge&labelColor=1a1b26" alt="years" />
+<img src="https://komarev.com/ghpvc/?username=Shlok-2006&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/Shlok-2006?style=for-the-badge&color=bb9af7&labelColor=1a1b26&label=FOLLOWERS" alt="followers" />
+<img src="https://img.shields.io/badge/BUILDING_SINCE-2024-f7768e?style=for-the-badge&labelColor=1a1b26" alt="years" />
 
 </div>
 
 <br/>
-
-
-## ✦ whoami
-
-```python
-class Ty:
-    role      = "Full Stack Developer"
-    focus     = ["Agentic Ai", "System Design", "automation pipelines"]
-    stack     = ["Python", "", "TypeScript", "Go"]
-    building  = "arcana — controllable, reproducible, evaluable agents"
-    shipped   = ["AI_novel", "arcana", "tachyon", "messageinfra"]
-    believes  = "agents should do real work, not just chat"
-```
-
-<br/>
-
 
 # 💫 About Me:
 A B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology, Chennai. I’m passionate about Agentic AI, Software Engineering, Full Stack Development & building scalable real-world applications.<br><br>My experience includes working on industry-level and full-stack development projects involving machine learning, computer vision, and modern web technologies. I enjoy solving practical problems, exploring new technologies, and continuously enhancing my development and system design skills.
