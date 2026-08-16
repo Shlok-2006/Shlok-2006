@@ -29,6 +29,7 @@ A B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology, Chenn
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlok-2006&hide_border=true&background=080808&stroke=550000&ring=B11226&fire=A00018&currStreakNum=FFFFFF&currStreakLabel=B11226&sideNums=FFFFFF&sideLabels=800010&dates=777777" alt="streak" />
 </div>
 <br>
+
 ## ✦ Contribution Snake
 
 <div align="center">
