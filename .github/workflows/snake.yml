@@ -3,15 +3,14 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-
-    runs-on: ubuntu-latest
 
     steps:
       - name: Generate red contribution snake
@@ -22,10 +21,10 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#B11226&color_dots=#080808,#240000,#550000,#800010,#B11226
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#B11226&color_dots=#080808,#240000,#550000,#800010,#B11226
 
-      - name: Push snake files to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          branch: output
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
