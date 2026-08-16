@@ -1,3 +1,37 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=220&section=header&text=%24%20whoami&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20agents%20that%20actually%20do%20things&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="header" />
+
+<div align="center">
+
+<a href="https://github.com/Shlok-2006">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&width=620&height=50&lines=AI+Agent+Platforms+%E2%80%A2+Rust+Systems;Controllable+%E2%80%A2+Reproducible+%E2%80%A2+Evaluable;agents+should+do+real+work%2C+not+just+chat" alt="typing" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tyxben&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/tyxben?style=for-the-badge&color=bb9af7&labelColor=1a1b26&label=FOLLOWERS" alt="followers" />
+<img src="https://img.shields.io/badge/BUILDING_SINCE-2016-f7768e?style=for-the-badge&labelColor=1a1b26" alt="years" />
+
+</div>
+
+<br/>
+
+
+## ✦ whoami
+
+```python
+class Ty:
+    role      = "Full Stack Developer"
+    focus     = ["Agentic Ai", "System Design", "automation pipelines"]
+    stack     = ["Python", "", "TypeScript", "Go"]
+    building  = "arcana — controllable, reproducible, evaluable agents"
+    shipped   = ["AI_novel", "arcana", "tachyon", "messageinfra"]
+    believes  = "agents should do real work, not just chat"
+```
+
+<br/>
+
+
 # 💫 About Me:
 A B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology, Chennai. I’m passionate about Agentic AI, Software Engineering, Full Stack Development & building scalable real-world applications.<br><br>My experience includes working on industry-level and full-stack development projects involving machine learning, computer vision, and modern web technologies. I enjoy solving practical problems, exploring new technologies, and continuously enhancing my development and system design skills.
 
@@ -13,3 +47,5 @@ A B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology, Chenn
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shlok-2006&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=120&section=footer" width="100%" alt="footer" />
