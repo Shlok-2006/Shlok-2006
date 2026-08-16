@@ -28,5 +28,19 @@ A B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology, Chenn
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shlok-2006&hide_border=true&background=080808&stroke=550000&ring=B11226&fire=A00018&currStreakNum=FFFFFF&currStreakLabel=B11226&sideNums=FFFFFF&sideLabels=800010&dates=777777" alt="streak" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✦ contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shlok-2006/Shlok-2006/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shlok-2006/Shlok-2006/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Shlok-2006/Shlok-2006/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,50:5C1018,100:0D0D0D&height=120&section=footer" width="100%" alt="footer" />
